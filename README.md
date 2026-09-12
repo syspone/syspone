@@ -57,3 +57,15 @@ Atualmente estou construindo projetos práticos para fortalecer minhas bases e e
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+</div>
+
+## Estatísticas do GitHub
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=syspone&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&count_private=true" alt="Estatísticas do GitHub">
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syspone&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas">
+
+<img src="https://streak-stats.demolab.com/?user=syspone&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições">
+
+</div>
