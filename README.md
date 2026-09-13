@@ -36,11 +36,11 @@ Atualmente estou construindo projetos práticos para fortalecer minhas bases e e
 - Engenharia de Dados
 - Estatística e Ciência de Dados
 - Visualização de dados
+- Rust para Desenvolvimento de Software
 
 ## Tecnologias
 
 <div align="center">
-
 <!-- Mantenha as badges que você usa, apague as outras e adicione novas no mesmo formato:
      ![Nome](https://img.shields.io/badge/Nome-CORHEX?style=for-the-badge&logo=NOME-DO-LOGO&logoColor=white)
      Nomes de logos e cores: https://simpleicons.org -->
@@ -53,7 +53,6 @@ Atualmente estou construindo projetos práticos para fortalecer minhas bases e e
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
