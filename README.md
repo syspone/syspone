@@ -22,7 +22,7 @@
 
 ## Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Focus, com interesse em Engenharia de Dados e Ciência de Dados.
+Sou estudante de Análise e Desenvolvimento de Sistemas na **Faculdade Focus**, com interesse em **Engenharia de Dados** e **Ciência de Dados**.
 
 Gosto de trabalhar com dados de diferentes etapas do processo — desde coleta, limpeza e organização até análise e visualização, enquanto desenvolvo minhas habilidades de programação e banco de dados.
 
