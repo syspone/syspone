@@ -83,9 +83,9 @@ Atualmente estou construindo projetos práticos para fortalecer minhas bases e e
 
 <div align="center">
 
-<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syspone&theme=tokyonight&v=2" alt="Estatísticas do GitHub">
-<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syspone&theme=tokyonight&v=2" alt="Linguagens mais usadas">
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syspone&theme=tokyonight&v=3" alt="Estatísticas do GitHub">
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syspone&theme=tokyonight&v=3" alt="Linguagens mais usadas">
 
-<img src="https://streak-stats.demolab.com/?user=syspone&theme=tokyonight&hide_border=true&locale=pt_BR&v=2" alt="Sequência de contribuições">
+<img src="https://streak-stats.demolab.com/?user=syspone&theme=tokyonight&hide_border=true&locale=pt_BR&v=3" alt="Sequência de contribuições">
 
 </div>
