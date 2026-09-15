@@ -1,0 +1,40 @@
+name: Atualizar estatísticas do perfil
+
+# As imagens de estatísticas ficam em cache no camo (proxy de imagens do
+# GitHub). Este workflow pede o purge desse cache periodicamente, para que
+# os cards sejam rebuscados e apareçam sempre atualizados no perfil.
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  purgar-cache:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Purgar cache das imagens (camo)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+
+          curl -sS \
+            -H "Accept: application/vnd.github.html" \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            "https://api.github.com/repos/${{ github.repository }}/readme" \
+            | grep -oE 'https://camo\.githubusercontent\.com/[A-Za-z0-9]+' \
+            | sort -u > urls.txt
+
+          echo "Imagens encontradas: $(wc -l < urls.txt)"
+
+          while read -r url; do
+            printf '%s -> ' "$url"
+            curl -sS -X PURGE "$url" || echo "falhou"
+            echo
+          done < urls.txt

@@ -83,10 +83,13 @@ Atualmente estou construindo projetos práticos para fortalecer minhas bases e e
 
 <div align="center">
 
-<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syspone&theme=tokyonight&v=4" alt="Estatísticas do GitHub">
-<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syspone&theme=tokyonight&v=4" alt="Linguagens mais usadas">
-<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=syspone&theme=tokyonight&v=4" alt="Linguagens por commits">
+<!-- O cache destas imagens é limpo automaticamente pelo workflow
+     .github/workflows/atualizar-estatisticas.yml (não precisa de ?v=N à mão) -->
 
-<img src="https://streak-stats.demolab.com/?user=syspone&theme=tokyonight&hide_border=true&locale=pt_BR&v=4" alt="Sequência de contribuições">
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syspone&theme=tokyonight" alt="Estatísticas do GitHub">
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syspone&theme=tokyonight" alt="Linguagens mais usadas">
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=syspone&theme=tokyonight" alt="Linguagens por commits">
+
+<img src="https://streak-stats.demolab.com/?user=syspone&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições">
 
 </div>
